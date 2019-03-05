@@ -8,6 +8,7 @@ ul {
   top: 0;
   left: 0;
   width: 100%;
+  z-index: 3;
 }
 
 li {
@@ -57,6 +58,7 @@ THE SlideShow
   max-width: 1000px;
   position: relative;
   margin: auto;
+  z-index: 1;
 }
 
 /* Hide the images by default */
