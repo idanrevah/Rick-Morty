@@ -28,6 +28,7 @@ li a:hover:not(.active) {
   background-color: #56ADEF;
 }
 
+
 body  {
   background: url("img/background.jpg") no-repeat fixed center; 
   background-size: 100% 100%;
