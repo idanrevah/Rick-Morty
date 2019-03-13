@@ -15,6 +15,10 @@ li {
   float: left;
 }
 
+p {
+  margin: 2%;
+}
+
 li a {
   display: block;
   color: white;
